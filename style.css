@@ -31,8 +31,8 @@
 			background-color: grey;
 			background-image: url(4.jpg);
 			background-repeat: no-repeat;
-			background-size: contain;
-			/*background-attachment: fixed;*/
+			background-size: auto;
+			background-attachment: fixed;
 		}
 		.container {
   			width: 100%;
